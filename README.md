@@ -7,6 +7,12 @@ This prediction model will leverage historical price data, to forecast future pr
 
 In our implementation, we have predicted Fuel Price Index.​
 
+The dataset includes monthly prices and indexes for
+53 commodities from 1992 to 2014, with 2005 as the
+reference year for indexes (value = 100). Key categories
+in the dataset include All Commodity, Food and
+Beverage, Food, Beverage and Fuel Energy. Each
+category is represented by its respective price index.
 ​
 
 ​
