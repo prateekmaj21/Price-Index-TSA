@@ -1,0 +1,9 @@
+pandas
+statsmodels
+matplotlib
+numpy
+seaborn
+warnings
+statsforecast
+scikit-learn
+rupturus
